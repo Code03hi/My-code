@@ -1,0 +1,18 @@
+package String;
+//    The Java String class indexOf() method returns the position of the first
+//    occurrence of the specified character or string in a specified string.
+public class IndexOfExample {
+    public static void main(String[] args) {
+        String s1 = "This is index of example";
+        // passing substring
+        int index1 = s1.indexOf("is"); // return the index of is substring
+        int index2 = s1.indexOf("index"); // return the index of index substring
+        System.out.println(index1 + " " + index2); // 2 8
+        // passing substring with from index
+        int index3 = s1.indexOf("is",4); // return the index of is substring after 4th index
+        System.out.println(index3); // 5 i.e., the index of another is
+        // passing char value
+        int index4 = s1.indexOf('s'); // return the index of s char value
+        System.out.println(index4); // 3
+    }
+}

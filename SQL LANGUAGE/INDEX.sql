@@ -1,0 +1,32 @@
+use b4;
+CREATE TABLE FullTimeEmployee
+(
+  ID INT,
+  NAME VARCHAR(20),
+  GENDER VARCHAR(20),
+  DESIGNATION VARCHAR(30),
+  SALARY INT
+);
+
+SELECT * FROM FullTimeEmployee;
+ DROP TABLE FullTimeEmployee;
+
+INSERT INTO FullTimeEmployee VALUES
+(01,'BHAGWAN','MALE','MANAGER',25000),
+(02,'M','FEMALE','ASSISTANT',20000),
+(03,'SANDEEP','MALE','ACCOUNTANT',35000),
+(04,'S','FEMALE','OPERATER',15000),
+(05,'N','FEMALE','DIRECTOR',45000);
+
+CREATE INDEX IX_FTF_SALARY
+ON FullTimeEmployee (SALARY ASC);
+
+sp_helpindex FullTimeEmployee;
+
+SELECT * FROM FullTimeEmployee where salary > 10000 and salary<22000;
+
+SELECT * FROM FullTimeEmployee where salary > 10000 OR salary<22000;
+
+DROP INDEX FullTimeEmployee.IX_FTF_SALARY;
+
+DROP INDEX IX_FTF_SALARY;

@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a9f5a53-9dc2-4bab-9010-7e3fab4f8f3a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/androidTest/java/com/example/valconverter/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/java/com/example/valconverter/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/drawable/calculator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/app/src/test/java/com/example/valconverter/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/ValConverter/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Ambiguity.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Ambiguity.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Array_Object.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Array_of_Pointer.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Array_of_Pointer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Array_of_vector.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Array_of_vector.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/C1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/C1..c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/C1..exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Complex_friend.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Complex_friend.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Constructor_derived1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Constructor_in_Derived.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Constructor_in_Derived.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Doubly_03.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Doubly_03.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Dynamic_initiliazation.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Dynamic_initiliazation.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Exercise.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Exercise.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Factorail.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Factorail.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/File.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/File.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/File1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/File1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/File2.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/File2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Function_Template.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Function_Template.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Inheritance _syntax.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Map1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Map1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/MultiLevel_Inheritance.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/MultiLevel_Inheritance.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Operator_Increment.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Operator_Increment.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Pointer_To_Derived.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Pointer_To_Derived.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Pointer_To_Object.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Pointer_To_Object.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Polymorphims.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Polymorphism.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Polymorphism.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Range_base_loop.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Range_base_loop.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL1_Algorithm.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL1_Array.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL2_Vector.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL3_Deque.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL3_Deque.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL4_Begin.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL5_List.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL5_List.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL_Map.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL_Priority_Queue.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL_Queue.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL_Set.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/STL_Stack.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Single_Inheritance.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Single_Inheritance.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Template_overloading.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Template_overloading.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/This.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/This.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Vector2.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Vector2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Vertual_example.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Vertual_example.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Virtual.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/Virtual.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/abstract_base_pure.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/abstract_base_pure.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/algorithm.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/algorithm1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/array_deference.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/array_deference.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/array_pointer.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/array_pointer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/auto_range_base.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/auto_range_base.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/auto_typeid.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/auto_typeid.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/bad_alloc.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/bad_alloc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/bad_alloc1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/bad_alloc1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/c25.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/c25.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/c25_1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/c25_1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/c26.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/con1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/concatenatiny_operator.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/concatenatiny_operator.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/cons_des_igonu.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/const_pointer.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/const_pointer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/constructer.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/constructer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/dectype.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/dectype.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/dectype1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/dectype1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/default_constructor.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/default_constructor.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/default_constructor1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/destructor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/destructor.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/friend.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/friend.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/friend_function.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/friend_function.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/friend_function1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/friend_function1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/function_object.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/function_object.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/function_overlaping.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/function_overlaping.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/ignou_ch_02.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/ignou_con_01.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/inline.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/inline.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/list2.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/list2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/manu.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/manu.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/min_type.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/min_type.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/multiple_inheritance.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/multiple_inheritance.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/namespace.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/namespace_1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/namespace_2.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/namespace_3.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/namespace_4.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/namespace_5.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/namespace_6.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/namespace_7.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/new_delete.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/new_delete.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/operator_const.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/operator_const.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/pair.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/pair1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/pair3.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/pair3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/pair_iterator.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/pair_iterator.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/protected.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/protected.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/random_number.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/random_number.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/stack.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/stack1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/string.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/tempCodeRunnerFile.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/tempCodeRunnerFile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/template.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/template.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/template1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/template1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/template2.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/template2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/template3.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/template3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/thread.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/thread1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/tuple_1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/tuple_car.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/tuple_car.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/tuple_get_make_tuple.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/tuple_swap_tuple.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/tuple_swap_tuple.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/typeid.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/typeid.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/vector.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/vector1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/vector1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/vector_.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/vector_.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/vector_1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/vector_1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/vector_pair.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/vector_pair.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/vector_vector.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/vector_vector.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/virtual1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/virtual2.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ LANGUAGE/virtual2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_AT_STL.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_AT_STL.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Back.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Back.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Begin.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Begin.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Data.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Data.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Empty.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Empty.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Fill.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Fill.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Front.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Front.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Max_Size.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Max_Size.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Swap.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_Swap.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_cbegin.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_cbegin.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_crbeign.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_crbeign.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_rbegin.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Array_rbegin.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Cerr.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Cerr.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Complex_Maths.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Complex_Maths.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/CopyFile.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/CopyFile.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/File2.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/File2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Four_Hierarchy.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Four_Hierarchy.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Input_File.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Input_File.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/List_Assign.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/List_Assign.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/List_Back.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/List_Back.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/List_Begin.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/List_Begin.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/List_Clear.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/List_Clear.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/List_Empty.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/List_Empty.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/List_End.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/List_End.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/List_Eraser.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/List_Eraser.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Lower_Upper.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Lower_Upper.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Map.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Map.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Map1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Map1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Measure_Area.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Measure_Area.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Operator1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Operator1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Operator2.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Operator2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Operator3.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Operator3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Operator_Overloading.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Operator_Overloading.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Pair_.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Pair_.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/PassingArgument.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Password.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Password.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Polymorphism.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Queue.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Queue.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/ReadFile.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/ReadFile.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/STL.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/STL.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Set.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Set.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Set_Q.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Set_Q.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Sort.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Sort.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Stack.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Stack.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/String.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/String.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/String_count.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/String_count.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Template.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Template1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Template3.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Template3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/TemplateArray.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Testing_A_Stack.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Unordered_Map.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Vector.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/Vector.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/book.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/complex_operation.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/complex_operation.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/complex_operation_maths.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/complex_operation_maths.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/exam.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/exam.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/file1.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/file1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/file1q.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/file1q.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/interpolSearch.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/interpolSearch.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/multi3.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/multi3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/show_counter_unary.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/show_counter_unary.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/stack.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/string_compare.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/string_compare.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/swap_operating.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++ PRACTISE/swap_operating.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/.vscode/Doub.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/.vscode/Doub.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/.vscode/Doubw.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/.vscode/Doubw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/.vscode/Tres" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/AVL.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Array_ADT.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Array_ADT.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Array_ADT1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Array_ADT1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/BFS.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/BFS.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Binary_Search.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Binary_Search.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Bst.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Bubble_Sort.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Bubble_Sort.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Circula.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Circula.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Circular_linked.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Circular_linked.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/DEQueue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/DEQueue.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/DFS.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/DFS.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Dele_BST.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Dele_BST.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Delete_BST1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Delete_BST1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Deletion.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Deletion.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Deletion_Array.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Deletion_BST.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Deletion_linked.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Doubly_linked.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Doubly_linked.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Heap_Sort.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Heap_Sort.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/IGNOU.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/IGNOU.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/IGNOU1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/IGNOU1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/IGNOU2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/IGNOU2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/IGNOU3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/IGNOU3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/IGNOU4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/IGNOU4.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/IGNOU5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Insertion_Array.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Insertion_BST.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Insertion_BST.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Insertion_Sort.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Insertion_Sort.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Insertion_linked.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Insertion_linked.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Linear_Search.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Linear_Search.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Linked_traversal.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Merge_Sort.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Merge_Sort.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Merge_Sort1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Merge_Sort1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Peek.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Push_pop.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Queue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Queue.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Queue1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Queue1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Queue_linked_list.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Queue_linked_list.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Quick_Sort.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Quick_Sort.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Recursive.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Recursive_Inorder.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Search_BST.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Search_BST.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Stack_Exam.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Stack_Exam.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Stack_Exam_Linked.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Stack_Exam_Linked.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Top_bottom.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Top_bottom.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/Tree1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/TreeTraversal.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/binary.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/circular_queue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/circular_queue.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/inOrder.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/inOrder.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/linked_list_stack.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/linked_list_stack.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/linked_list_stack1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/linked_list_stack1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/manu.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/parenthesis.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/postOrder.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/postOrder.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/preorder.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/preorder.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/search_binary_linear.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/stack1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/stack_linked.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/stack_linked.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/stack_top_peek_bottom.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/stack_top_peek_bottom.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/tempCodeRunnerFile.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/time_complexity.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/time_complexity.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/tree.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DATA STRUCTURE/tree1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structure Revise/.idea/Data Structure Revise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/androidTest/java/com/example/goodmorning/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/java/com/example/goodmorning/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/app/src/test/java/com/example/goodmorning/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodMorning/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/2Q1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/2index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/3index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/4index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/New Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/Police.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/Police1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/Practice/Advance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/Practice/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/Practice/abbr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/Practice/acronym.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/Practice/meta.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/Q1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/Q1chap4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/Q2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/Q3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/Q4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/Travel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/Video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/chapter2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/form.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/prac1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ignou/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ignou/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ignou/file.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ignou/file.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ignou/file2.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ignou/file2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ignou/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/DatabaseConnection/DatabaseConnection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/DatabaseConnection/src/CreateStatementJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/DatabaseConnection/src/DynamicInsertedQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/DatabaseConnection/src/InsertImageInDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/DatabaseConnection/src/InsertIntoDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/DatabaseConnection/src/InsertingLargeImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/DatabaseConnection/src/SelectImageFromDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/DatabaseConnection/src/SelectingData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/DatabaseConnection/src/StudentManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/DatabaseConnection/src/TakeInputFromUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/DatabaseConnection/src/UpdateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/Java start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/Java start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/Java start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/Java start/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/Java start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/Java start/out/.idea/out.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/Java start/out/production/Java start/If_Else_Statement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/Java start/out/production/Java start/Logical_Operator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/Java start/out/production/Java start/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/Java start/out/production/Java start/Switch_Statement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/Java start/out/production/Java start/star_pattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/JavaDBconnection/JavaDBconnection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/Projects/.idea/Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/StudentManagementApp/StudentManagementApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/StudentManagementApp/src/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/com.company/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/com.company/.idea/Literal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/com.company/.idea/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/com.company/.idea/String_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/com.company/.idea/String_Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/com.company/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/com.company/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/com.company/out/production/com.company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/com.company/out/production/com.company/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/com.company/out/production/com.company/Taking_Input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/.idea/libraries/mysql_connector_j_8_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/Z.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/out/production/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/ActionListenerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/AdapterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/ButtonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/ButtonExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/ButtonExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/CanvasExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/CheckBoxExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/CheckBoxExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/CheckBoxGroupExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/CheckBoxGroupExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/ChoiceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/ChoiceExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/DialogExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/EventHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/EventHandlingExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/EventHandlingExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/FirstAbstractWindowToolkit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/GraphicsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/ItemListenerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/KeyAdapterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/KeyListenerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/KeyListenerExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/LabelExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/LabelExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/ListExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/MenuItemExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/MouseAdapterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/MouseListenerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/MouseListenerExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/MouseMotionAdapterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/MouseMotionListenerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/MouseMotionListenerExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/PanelExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/PopupMenuExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/ScrollBarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/ScrollBarExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/TextAreaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/TextAreaExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/TextFieldExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/TextFieldExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/ToolKitExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/ToolKitExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/ToolKitExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/WindowAdapterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/WindowAdapterExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/WindowAdapterExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AbstractWidowToolkit/WindowListenerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/App_And_Software/NotePad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/App_And_Software/NotePadBhagwan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AppletProgramming/AppletExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/AppletProgramming/RegPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Collections/ArrayDequePro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Collections/ArrayList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Collections/ArrayList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Collections/ArrayList3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Collections/ArrayListWithHarry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Collections/HashMapPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Collections/HashSetPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Collections/LinkedListPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/DataAPI/FirstDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/DataAPI/LocalDateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/DataAPI/LocalDateTimeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/DataAPI/LocalTimeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/ExecutorFrameWork/CustomThreadPoolExecutorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/ExecutorFrameWork/ExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/ExecutorFrameWork/ExecutorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/ExecutorFrameWork/FixedSizeThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/ExecutorFrameWork/FixedSizeThreadExe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/ExecutorFrameWork/FutureExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/ExecutorFrameWork/NewTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/ExecutorFrameWork/RejectedExecutionHandlerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/ExecutorFrameWork/SchedulerExecutorServiceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/ExecutorFrameWork/SimpleExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/ExecutorFrameWork/SimpleExecutor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/ExecutorFrameWork/ThreadPoolExecutorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/ArithmeticException1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/ArithmeticException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/ArithmeticException3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/ArithmeticExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/ArrayIndexOutOfBoundsException1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/ArrayIndexOutOfBoundsExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/CustomException1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/ExceptionPropagation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/ExceptionPropagation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/FileNotFoundException1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/Final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/Finalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/Finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/FinallyBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/MultiCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/MultipleCatchBlock1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/MultipleCatchBlock2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/MultipleCatchBlock3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/MultipleCatchBlock4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/NestedTryBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/NestedTryBlock1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/NullPointerExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/NumberFormatExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/PrintWriter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/SubClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/SubClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/SubClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/SubClass4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/TestException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/TestException3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/TestException4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/TestException5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/Throw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/Throw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/Throw3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/ThrowAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/Throws1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/Throws2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/Throws3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/Throws4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/Throws5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Handling/ThrowsThrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/BufferedInputStreamExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/BufferedOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/BufferedReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/BufferedReaderExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/BufferedReaderExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/BufferedWriterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/ByteArrayInputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/ByteArrayOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/CharArrayReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/CharArrayWriterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/ConsoleExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/ConsoleExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/Custom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/DataInputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/DataOutputStreamExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/DateOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FileDescriptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FileExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FileExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FileExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FileInputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FileInputStreamExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FileInputStreamExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FileOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FileOutputStreamExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FilePermissionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FileReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FileWriterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FilterInputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FilterOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FilterReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/FilterWriterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/InputStreamReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/ObjectStreamClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/ObjectStreamFieldExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/OutPutStreamWriterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/PipedReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/PipedWriterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/PrintStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/PrintStreamExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/PrintWriterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/PushBackInputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/PushBackReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/RandomAccessFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/ReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/SequenceInputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/SequenceInputStreamExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/SequenceInputStreamExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/StringReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/StringWriterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/InputOutput/WriterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaDatabase/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaDatabase/MySql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaFxTutorial/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaOopsMisc/CallByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaOopsMisc/CallByValue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaOopsMisc/Clone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaOopsMisc/CommandLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaOopsMisc/JavaMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaOopsMisc/JavaMath1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaOopsMisc/RecursionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaOopsMisc/RecursionExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaOopsMisc/Strictfp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaOopsMisc/WrapperExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaOopsMisc/WrapperExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaOopsMisc/WrapperExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/JavaOopsMisc/WrapperExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/LambdaExpression/LambdaExpression1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/LambdaExpression/MyWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/LambdaExpression/StringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/LayoutManager/Border.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/LayoutManager/BoxLayoutExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/LayoutManager/CardLayoutExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/LayoutManager/FlowLayoutExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/LayoutManager/FlowLayoutExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/LayoutManager/GridLayoutExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/LayoutManager/GridLayoutExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Abstract_Interface_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Array_For_Each_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Associativity_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Block1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Block2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Block3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Buffer_Read.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Comparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Comparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Constructor_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Constructor_Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Constructor_Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Dead_ock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Dynamic_Dispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Good_Morning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/If_Else_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Inheritance_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/InterFace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Literal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Logical_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Main_Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Multi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Multi_dimensional_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Multiple_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Online_Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Practice_OOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Priority_Geek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Rock_Paper_Scissors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Runnable_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/So1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Sol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/String_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/String_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Switch_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Sync_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/SynchroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/SynchroTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/SynchroTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/SynchroTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/SynchroTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Taking_Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Thread_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Thread_Pool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/Thread_Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/abstract_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/custom_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/fibonacci_Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/function_overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/practice_OOP1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/random_game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/star_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MixCode/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/ActiveCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/DaemonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/FinalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/MemoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/MultiAsking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/PCFixed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/RunnableInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/ShutDownHook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/SuspendAndResume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/SynchronizedPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/SynchronizedSafety.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/TestCallRun1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/TestCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/TestDaemonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/TestGarbage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/TestMultiNaming1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/TestThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/TestThreadTwice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/ThreadGroupDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/ThreadGroupExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/ThreadGroupExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/ThreadGroupExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/ThreadGroupExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/ThreadGroupExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/ThreadJoin1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/ThreadPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/ThreadSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/VolatileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/MultiThreading/YieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Networking/MyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Networking/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Polymorphism/BabyDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Polymorphism/CoVariantExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Polymorphism/FinalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Polymorphism/FinalMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Polymorphism/FinalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Polymorphism/InstanceInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Polymorphism/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Polymorphism/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Polymorphism/RuntimePolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Polymorphism/Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Polymorphism/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Polymorphism/TestOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/PracticeJava/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/PracticeJava/ExceptionHandling1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/PracticeJava/ExceptionHandling3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/PracticeJava/ExceptionHandling4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/PracticeJava/ExceptionHandling5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/PracticeJava/ExceptionHandling6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/PracticeJava/ParallelSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/PracticeJava/ThreadExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/PracticeJava/ThreadExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/RMIProgram/RemoteClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/RMIProgram/Rminew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/RMIProgram/ServerImplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/RMIProgram/ServerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/RelectionTutorial/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/CharAtExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/CharAtExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/CharAtExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/CharAtExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/CompareTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/CompareToExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/CompareToExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/CompareToExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/CompareToExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ConcatExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ConcatExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ConcatExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ContainExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ContainsExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ContainsExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/EndWithExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/EndsWithExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/EndsWithExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/EndsWithExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/EqualExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/EqualExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/EqualsExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/EqualsIgnoreCaseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/EqualsIgnoreCaseExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/FormatExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/FormatExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/FormatExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/IndexOfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/IndexOfExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/IndexOfExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/IndexOfExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/IndexOfExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/InternExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/InternExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/IsEmptyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/IsEmptyExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/IsEmptyExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/IsEmptyExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/IsEmptyExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/IsEmptyExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/LastIndexOfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/LastIndexOfExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/LastIndexOfExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/LastIndexOfExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/LengthExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/LengthExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/LengthExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/LengthExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ReplaceAllExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ReplaceAllExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ReplaceAllExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ReplaceAllExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ReplaceAllExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ReplaceAllExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ReplaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ReplaceExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ReplaceExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/SplitExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/SplitExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/SplitExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StartWithExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StartsWithExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StartsWithExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StartsWithExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StringGetBytesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StringGetBytesExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StringGetBytesExample34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StringGetCharsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StringGetCharsExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StringGetCharsExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StringJoinExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StringJoinExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StringJoinExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StringJoinExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StringJoinExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StringTrimExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/StringTrimExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/SubStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/SubStringExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/SubStringExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/SubsStringExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ToCharArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ToCharArrayExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ToLowerCaseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ToLowerCaseExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ToUpperCaseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ToUpperCaseExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/TrimExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/TrimExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ValueOfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ValueOfExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ValueOfExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ValueOfExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/String/ValueOfExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/DigitalClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/DisplayGraphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/DisplayImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JButtonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JButtonExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JButtonExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JCheckBoxExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JCheckBoxExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JCheckBoxExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JCheckBoxMenuItemExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JColorChooserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JColorChooserExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JComboBoxExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JComboBoxExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JComponentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JDesktopPaneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JDialogExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JEditorPaneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JFileChooserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JFrameExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JLabelExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JLabelRExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JLayeredPaneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JListExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JMenuExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JMenuExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JOptionPaneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JOptionPaneExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JOptionPaneExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JOptionPaneExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JPanelExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JPasswordExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JPasswordExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JPopMenuExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JPopupMenuExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JProgressBarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JRadioButtonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JRadioButtonExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JRootPaneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JScrollBarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JScrollBarExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JScrollPaneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JSeparatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JSeparatorExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JSliderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JSliderExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JSpinnerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JSpinnerExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JSplitPaneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JTabbedPaneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JTableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JTableExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JTextAreaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JTextAreaExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JTextPaneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JToggleButtonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JToolBarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JTreeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/JViewportExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/TextFieldExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/ToolBarIconExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Swing/ToolTipExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Synchronized/DeadLockSolved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Synchronized/InterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Synchronized/InterruptedThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Synchronized/InterruptedThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Synchronized/InterruptedThread3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Synchronized/InterruptedThread4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Synchronized/LockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Synchronized/Reentrant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Synchronized/ReentrantExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Synchronized/SynchronizedMultithreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Synchronized/TestDeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Synchronized/TestSynchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Synchronized/TestSynchronized4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/Synchronized/TestSynchronized5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/src/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Programming/untitled/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LANGUAGE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/tcp1_server.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/tcp1_server.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/tcp_server.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/tcp_server.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/tempCodeRunnerFile.c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/.idea/Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Data_Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/AGGREGAT.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/ALIAS.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/CASCADE_REFRENTAIL_INTERITY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/CAST.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/CET.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/CHECK_DEFAULT_PRIMARY_KEY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/CLUSTERED INDEX.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/COALESCE.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/COMPOSITE KEY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/COMPUTED.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/COMPUTED1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/CONSTRAINT.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/CURSOR.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/Convert.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/DATE TIME FUNCTION.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/DDL1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/DEADLOCK.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/DELETE DUPLICATE ROW.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/DELETE DUPLICATE.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/DELETE MULTIPLE TABLE.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/DENSE_RANK.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/DIFF_STORED_FUNCTION.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/DISTINCT_BEWEEN_IN_OPERATOR.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/ERROR HANDLING 1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/ERROR HANDLING.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/EXCEPTION.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/FIND_DUPLICATE.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/FIND_NTH_HIGHEST_SALARY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/GROUP_BY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/GUID.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/GUID_FROM_MULTIPLE_DATABASE.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/HAVING_WHERE.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/IDENTITY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/INDENTITY_AUTO.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/INDEX.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/INLINE_FUNCTION.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/INNER_JOIN.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/INNER_JOIN1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/INSERT_TO_WITH_SELECT.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/INTERSECTION.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/ISNULL.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/JOIN_THREE_TABLE.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/LIKE.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/LOCAL_TEMPORARY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/MODIFY_NOT_OPERATOR.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/MULTI_LEVEL.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/NON CLUSTERED INDEX.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/NULL OR NULL.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/ORDER_BY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/OUTER_CROSS_APPLY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/OVER.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/Original-Dec-03-2022-0747PM.COMPOSITE KEY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/Original-Dec-03-2022-0747PM.GUID.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/PRIMARY_FOREIGN_KEY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/Question.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/RENAMEING_TABLE_DATABASE.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/RETRIEVING.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/ROLL_NUMBER.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/Recovered-Dec-03-2022-0747PM.COMPOSITE KEY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/Recovered-Dec-03-2022-0747PM.GUID.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SCALAR_MULTI.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SCALAR_USER_DEFIND_FUNCTION.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SELECT_INTO_COMMAND.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SELF.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SELF_CONTAINED_CO_RELATED_SUB_QUERY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SET_DEFAULT_CONTRAINTES.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SET_NULL_REFRENTIAL_INTEGRITY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SQLQuery.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SQLQuery1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SQLQuery2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SQLQuery3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SQLQuery4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SQLQuery45.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SQLQuery55.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SQLQuery6.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/STORED.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/STORED_PROCEDURE_OPERATOR.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/STRING.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/SUB_QUERY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/TRANSACTION.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/TRANSACTION1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/TRANSACTION2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/TRIGGER WITH VIEW.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/TRIGGERS_DML.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/TRIGGER_DML1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/UNION_ALL_UNION.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/UNIQUE AND NON UNIQUE.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/VIEW.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/alter.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/ddl2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/ddl3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/global_temporary.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/merge and using.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/sql1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/string function.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL LANGUAGE/unique.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\DELL\.android\avd\VirtualDevice.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2T4JgLtIQtVMnBQV8wZJiK6LXcJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/LANGUAGE/ValConverter/app/src/main/res/drawable&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/LANGUAGE/ValConverter/app/src/main/res/drawable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LANGUAGE\ValConverter\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.-1990942331">
+      <recent name="com.example.valconverter" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="ValConverter.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="true" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="true" />
+      <option name="CLEAR_APP_STORAGE" value="true" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a9f5a53-9dc2-4bab-9010-7e3fab4f8f3a" name="Changes" comment="" />
+      <created>1690296537365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690296537365</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

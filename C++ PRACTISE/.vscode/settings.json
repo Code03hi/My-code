@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.asm": "lldb.disassembly",
+        "iostream": "cpp"
+    }
+}
